@@ -2,7 +2,7 @@
 Fire and Smoke classification using lightweight label-free, prompt-driven cross-modal learning framework.
 ## 2. Requirements
 
-Python 3.10、PyTorch2.7.1
+Python 3.10, PyTorch2.7.1
 
 ## 3. Datasets
 We utilized 3 datasets: Kaggle fire and smoke, fire and nonfire image dataset collected from Youtube, and FLAME 2 from IEEE. The downloadable links for all the datasets are given 
@@ -18,4 +18,3 @@ To convert the RGB dataset to CWT Scalogram conversion run python 3d_cwt_scalogr
 
 ### 5. Model Training
 To trained the model on CWT Scalogram images run cnn_clip_model.py file
-
