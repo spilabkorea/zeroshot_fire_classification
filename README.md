@@ -5,7 +5,7 @@ Fire and Smoke classification using lightweight label-free, prompt-driven cross-
 Python 3.10、PyTorch2.7.1
 
 ## 3. Datasets
-We utilized 3 datasets: Kaggle fire and smoke, fire and nonfire image dataset collected, and FLAME 2 from IEEE. The downloadable links for all the datasets are given 
+We utilized 3 datasets: Kaggle fire and smoke, fire and nonfire image dataset collected from Youtube, and FLAME 2 from IEEE. The downloadable links for all the datasets are given 
 
 [Kaggle Fire and Smoke Dataset](https://drive.google.com/file/d/1L_TOG_sWp4xI9ojwe3YHu46VxmCS5xP8/view?usp=sharing)
 
