@@ -16,5 +16,6 @@ We utilized 3 datasets: Kaggle fire and smoke, fire and nonfire image dataset co
 ### 4. CWT Conversion
 To convert the RGB dataset to CWT Scalogram conversion run python 3d_cwt_scalogram_conversion.py
 
-### 5. To trained the model on CWT Scalogram images run cnn_clip_model.py file
+### 5. Model Training
+To trained the model on CWT Scalogram images run cnn_clip_model.py file
 
