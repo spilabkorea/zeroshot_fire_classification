@@ -1,6 +1,5 @@
 ## 1. Introduction
-Fire and Smoke classification using lightweight label-free, prompt-driven cross-modal learning framework.
-
+EdgeFlame is a lightweight, zero-shot fire and smoke classification framework designed for real-time inference on resource-constrained edge devices like drones or embedded systems. Inspired by CLIP, it aligns physics-inspired 3D Continuous Wavelet Transform (CWT) scalograms with semantic prompts using contrastive learning. The model enables label-free detection in unseen environments and achieves state-of-the-art performance across diverse datasets — all while maintaining ultra-fast inference (3281 FPS, 0.30ms) with a compact 0.12 MB model.
 ![](Figure/arch.png?raw=true)
 ## 2. Requirements
 
