@@ -4,8 +4,13 @@ EdgeFlame is a lightweight, zero-shot fire and smoke classification framework de
 
 ![](Figure/arch.png?raw=true)
 ## 2. Requirements
-
-Python 3.10, PyTorch 2.7.1
+- **Python 3.10**
+### Python Packages
+- **numpy**
+- **pandas**
+- **scikit-learn==0.24.2**
+- **tqdm==4.28.1**
+- **matplotlib==2.2.3**
 
 ## 3. Datasets
 We utilized 3 datasets: Kaggle fire and smoke, fire and nonfire image dataset collected from Youtube, and FLAME 2 from IEEE. The downloadable links for all the datasets are given 
