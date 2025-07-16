@@ -6,8 +6,9 @@ EdgeFlame is a lightweight, zero-shot fire and smoke classification framework de
 ## 2. Requirements
 - **Python 3.10**
 ### Python Packages
-- **numpy**
-- **pandas**
+- **pytorch==2.7.1**
+- **numpy==1.26.4**
+- **pandas==2.2.3**
 - **scikit-learn==0.24.2**
 - **tqdm==4.28.1**
 - **matplotlib==2.2.3**
