@@ -1,5 +1,7 @@
 ## 1. Introduction
 Fire and Smoke classification using lightweight label-free, prompt-driven cross-modal learning framework.
+
+![](Figure/arch.png?raw=true)
 ## 2. Requirements
 
 Python 3.10, PyTorch 2.7.1
