@@ -22,7 +22,7 @@ We utilized 3 datasets: Kaggle fire and smoke, fire and nonfire image dataset co
 
 [FLAME 2 Dataset](https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset) A multimodal dataset collected using RGB and infrared (IR) sensors mounted on drones during actual wildfire events in California. Each sample includes paired fire and non-fire images, enabling cross-spectral analysis. It’s especially useful for evaluating real-world detection under thermal conditions and for testing fusion-based or IR-aware models.
 
-### 4. CWT 
+### 4. Continuous Wavelet Transform (CWT)
 It is a mathematical technique that decomposes a signal into time-frequency space using wavelets—localized oscillations that can capture both short-lived high-frequency events and long-term low-frequency trends. In physics terms, CWT can be seen as tracing how energy evolves over time, much like observing a particle’s path in space-time
 To convert the RGB dataset to CWT Scalogram conversion run 
 ```
